@@ -1,0 +1,15 @@
+{
+    "name": "vendor/agenda",
+    "description": "Create csv with JSON",
+    "type": "library",
+    "require-dev": {
+        "php": "7.2.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ghten",
+            "email": "ziripot2010@gmail.com"
+        }
+    ]
+}
