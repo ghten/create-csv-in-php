@@ -14,7 +14,7 @@ $agenda = [];
 $dates = [];
 $timetable = []; 
 
-$json = file_get_contents('http://cedermerindades.com/eventos/web/index.php?r=api/eventos');
+$json = file_get_contents('http://site.com/events/web/index.php?r=api/events');
 $obj = json_decode($json);
 
 $library = new Library();
